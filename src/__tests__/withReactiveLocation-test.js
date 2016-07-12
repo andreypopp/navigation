@@ -6,7 +6,7 @@ import assert from 'assert';
 import withReactiveLocation from '../withReactiveLocation';
 import createMemoryHistory from 'history/lib/createMemoryHistory';
 
-describe('ReactiveHistory.withReactiveLocation', function() {
+describe('navigation.withReactiveLocation', function() {
 
   let createHistory = withReactiveLocation(createMemoryHistory);
 

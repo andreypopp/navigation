@@ -1,5 +1,5 @@
 {
-  "name": "reactive-history",
+  "name": "@andreypopp/navigation",
   "version": "0.1.0",
   "description": "Reactive history value",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreypopp/reactive-history.git"
+    "url": "git+https://github.com/andreypopp/navigation.git"
   },
   "keywords": [
     "history",
@@ -17,9 +17,9 @@
   "author": "Andrey Popp <8mayday@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andreypopp/reactive-history/issues"
+    "url": "https://github.com/andreypopp/navigation/issues"
   },
-  "homepage": "https://github.com/andreypopp/reactive-history#readme",
+  "homepage": "https://github.com/andreypopp/navigation#readme",
   "peerDependencies": {
     "derivable": "^1.0.0-beta9",
     "history": "^3.0.0"
