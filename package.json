@@ -1,0 +1,37 @@
+{
+  "name": "reactive-history",
+  "version": "0.1.0",
+  "description": "Reactive history value",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make lint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreypopp/reactive-history.git"
+  },
+  "keywords": [
+    "history",
+    "derivable"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/reactive-history/issues"
+  },
+  "homepage": "https://github.com/andreypopp/reactive-history#readme",
+  "peerDependencies": {
+    "derivable": "^1.0.0-beta9",
+    "history": "^3.0.0"
+  },
+  "devDependencies": {
+    "derivable": "^1.0.0-beta9",
+    "history": "^3.0.0",
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-preset-prometheusresearch": "^0.1.0",
+    "eslint": "^3.0.1",
+    "eslint-config-prometheusresearch": "^0.2.0",
+    "mocha": "^2.5.3"
+  }
+}
