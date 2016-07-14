@@ -3,7 +3,6 @@
  */
 
 import {atom} from 'derivable';
-import {locationsAreEqual} from 'history';
 
 /**
  * Enhance `createHistory` with reactive location value.
